@@ -75,3 +75,18 @@ To develop the web application for organizing and managing music festivals, I fo
 ### 12. **Ongoing Improvements**
    - After deployment, I continued to monitor user feedback and made improvements based on their suggestions.
    - I also added new features as needed, such as the ability to filter the festival schedule by genre or performer.
+
+
+     ### ![image](https://github.com/user-attachments/assets/a74c3106-c4bf-496c-bda9-f9649692816e)
+     ### ![image](https://github.com/user-attachments/assets/f998b20c-3730-4bde-9282-c4d98cce6de2)
+     ### ![image](https://github.com/user-attachments/assets/a19608e4-f964-48e8-905c-e16033d42bbb)
+     ### ![image](https://github.com/user-attachments/assets/87fd94e4-1b7f-4ea5-a1ca-92cc1aa00ce8)
+     ### ![image](https://github.com/user-attachments/assets/f121cf82-3f3b-4086-8fef-f21fe628f2f0)
+     ### ![image](https://github.com/user-attachments/assets/d88921f8-c13a-425c-a5bf-7eba5c90cf83)
+
+
+
+
+     
+
+
